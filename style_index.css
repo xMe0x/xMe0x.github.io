@@ -1,0 +1,18 @@
+
+ .content1{
+
+            text-align: center;
+        }
+
+ .d{
+          transition-property: color,font-size;
+          transition-duration: 1s;
+          color: #000000;
+        }
+  .d:hover{
+        color: rgb(151, 151, 151);
+          font-size: 17px;
+        }
+        .fm-f{
+          font-family: "Mitr","Concert One";
+        }
